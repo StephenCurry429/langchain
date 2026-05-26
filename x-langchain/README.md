@@ -489,3 +489,4 @@ print(f"总工具数: {stats['total_tools']}")
 | **Gitee** | https://gitee.com/yeyushilai |
 | **GitHub** | https://github.com/yeyushilai |
 | **项目地址** | https://gitee.com/chain-engine/x-langchain |
+| **GitHub** | https://github.com/StephenCurry429/langchain |
